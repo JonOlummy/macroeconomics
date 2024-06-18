@@ -1,0 +1,7 @@
+2024-06-18 12:03:31,370 - INFO - Read config file parameter_config.ini successfully.
+2024-06-18 12:03:31,373 - INFO - Main producer price index: %oya, 3mma GBP: cleaned using strategy bfill
+2024-06-18 12:03:31,373 - INFO - Merchandise trade balance ratio change (sa): 3M/3M Japan: cleaned using strategy bfill
+2024-06-18 12:03:31,374 - INFO - Merchandise trade balance ratio change (sa): 3M/3M GBP: cleaned using strategy bfill
+2024-06-18 12:03:31,375 - INFO - Generic government bond returns: 5-year maturity Japan: cleaned using strategy median
+2024-06-18 12:03:31,376 - INFO - Generic government bond returns: 5-year maturity GBP: cleaned using strategy median
+2024-06-18 12:03:31,425 - INFO - Data cleaning process completed successfully and output saved as cleaned_data.csv
